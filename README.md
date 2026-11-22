@@ -4,7 +4,11 @@
 
 QERI is an experimental, model-agnostic agent-to-proof protocol for accountable execution, cryptographic provenance, and independently inspectable outcomes.
 
-[QERI™ Proof-Stack Delivery Tracker](https://qeri-proof-stack.adabakadiri.chatgpt.site) · Private workspace for milestones, test evidence, decisions, and weekly briefs.
+## Website
+
+**Backed up. Can it come back?** AION Verified Recovery™ proposes a restoration test that records which application checks passed while a patch is pending.
+
+[Open the QERI™ Proof-Stack Delivery Tracker](https://qeri-proof-stack.adabakadiri.chatgpt.site) (private access). The tracker covers milestones, test evidence and decisions across the proof stack.
 
 ## Architecture
 
