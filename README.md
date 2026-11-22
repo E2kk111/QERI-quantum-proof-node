@@ -4,6 +4,8 @@
 
 QERI is an experimental, model-agnostic agent-to-proof protocol for accountable execution, cryptographic provenance, and independently inspectable outcomes.
 
+[QERI™ Proof-Stack Delivery Tracker](https://qeri-proof-stack.adabakadiri.chatgpt.site) · Private workspace for milestones, test evidence, decisions, and weekly briefs.
+
 ## Architecture
 
 - **QERI:** proof-node protocol, evidence receipts, and verification.
